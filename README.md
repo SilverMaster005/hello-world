@@ -1,2 +1,3 @@
 # hello-world
-Just another repositAyo my name is silver, and I make kode
+Just another reposit 
+Ayo my name is silver, and I make kode
